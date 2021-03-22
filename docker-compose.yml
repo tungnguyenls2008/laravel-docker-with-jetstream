@@ -46,7 +46,7 @@ services:
       - "3306:3306"
     environment:
       MYSQL_DATABASE: work_diary
-      MYSQL_ROOT_PASSWORD: iittp
+      MYSQL_ROOT_PASSWORD: 123
       SERVICE_TAGS: dev
       SERVICE_NAME: mysql
     volumes:
@@ -61,7 +61,7 @@ services:
     ports:
       - "8080:80"
     environment:
-      MYSQL_ROOT_PASSWORD: iittp
+      MYSQL_ROOT_PASSWORD: 123
       PMA_HOST: db
     external_links:
       - mariadb:mariadb
