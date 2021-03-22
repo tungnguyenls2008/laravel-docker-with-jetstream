@@ -1,28 +1,5 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
-
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-jetstream.svg"></p>
-
-<p align="center">
-    <a href="https://github.com/laravel/jetstream/actions">
-        <img src="https://github.com/laravel/jetstream/workflows/tests/badge.svg" alt="Build Status">
-    </a>
-    <a href="https://packagist.org/packages/laravel/jetstream">
-        <img src="https://img.shields.io/packagist/dt/laravel/jetstream" alt="Total Downloads">
-    </a>
-    <a href="https://packagist.org/packages/laravel/jetstream">
-        <img src="https://img.shields.io/packagist/v/laravel/jetstream" alt="Latest Stable Version">
-    </a>
-    <a href="https://packagist.org/packages/laravel/jetstream">
-        <img src="https://img.shields.io/packagist/l/laravel/jetstream" alt="License">
-    </a>
-</p>
-
+####Good start
+just need to adjust .env file to your liking
 ## Introduction
 This is a admin template built on top of Laravel Jetstream that provides the perfect starting point for your next Laravel application and includes login, registration, email verification, two-factor authentication, session management, API support via Laravel Sanctum, and optional team management. This template uses [Tailwind CSS](https://tailwindcss.com/) + [Livewire](https://laravel-livewire.com) + Blade
 
